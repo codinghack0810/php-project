@@ -1,0 +1,23 @@
+.card-box {
+    padding: 50px 50px 50px 50px;
+}
+
+.cabecera{
+        text-align: -webkit-center;
+}
+.dataT{
+    width: 300px;
+}
+
+table thead tr th {
+    width: 300px;
+    background: #4bb1f7;
+
+}
+
+table tbody tr td {
+    border: 1px solid #c3c1c1;
+
+}
+
+
